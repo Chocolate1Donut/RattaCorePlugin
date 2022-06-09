@@ -1,0 +1,9 @@
+name: 'RattaCore'
+version: '1.0'
+main: com.donut.rattacore.RattaCore
+api-version: '1.18'
+commands:
+  test:
+    description: This is a test. Fuck you.
+    usage: /test
+    permission: rattacore.test
